@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Laxmikant-SB/Laxmikant-SB/main/assets/pixel-ai.jpeg" width="850"/>
-
-<br><br>
-
 # Laxmikant Babaleshwar
 
-### Building AI systems that think, retrieve & act.
+### `AI / ML / GenAI`
+
+<p>
+  <b>Building intelligent systems that retrieve, reason & act.</b>
+</p>
 
 <br>
 
 <a href="https://github.com/Laxmikant-SB">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  GitHub
 </a>
-&nbsp;
+&nbsp; • &nbsp;
 <a href="https://www.linkedin.com/in/laxmikant-babaleshwar-638639323">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  LinkedIn
 </a>
-&nbsp;
+&nbsp; • &nbsp;
 <a href="mailto:laxmikantbabaleshwar07@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  Email
 </a>
 
 </div>
@@ -35,35 +35,56 @@ I enjoy turning ideas into systems that **retrieve, reason, evaluate and deploy*
 
 ---
 
-## `// WHAT I BUILD`
+## `// TOOLKIT`
 
 <div align="center">
 
-| 🧠 AI | 🔎 Retrieval | 🤖 Agents | ⚙️ MLOps |
-|:---:|:---:|:---:|:---:|
-| LLMs | RAG | LangGraph | MLflow |
-| QLoRA | FAISS | Multi-Agent | DVC |
-| LoRA | ChromaDB | Tool Calling | Docker |
-| Prompt Engineering | BM25 / RRF | Human-in-the-Loop | AWS |
+### 🧠 AI & Machine Learning
+
+`Python` · `PyTorch` · `TensorFlow` · `Keras` · `Scikit-learn`  
+`NumPy` · `Pandas` · `NLP` · `Deep Learning` · `Statistics`
+
+### 🤖 Generative AI
+
+`LLMs` · `RAG` · `LangChain` · `LangGraph`  
+`Prompt Engineering` · `Semantic Search` · `Vector Search`
+
+### 🔎 Retrieval
+
+`FAISS` · `ChromaDB` · `BM25` · `Hybrid Search`  
+`RRF` · `Re-ranking` · `Cross-Encoder`
+
+### 🔥 LLM Fine-Tuning
+
+`LoRA` · `QLoRA` · `PEFT` · `4-bit Quantization`  
+`Hugging Face Transformers` · `Qwen` · `Llama` · `Groq`
+
+### ⚙️ MLOps & Cloud
+
+`DVC` · `MLflow` · `Docker` · `GitHub Actions`  
+`FastAPI` · `AWS EC2` · `AWS ECR` · `DagsHub`
+
+### 🛠️ Tools
+
+`Git` · `GitHub` · `Streamlit` · `Flask` · `Pydantic` · `Postman`
 
 </div>
 
 ---
 
-## `// BUILDS`
+## `// WHAT I BUILD`
 
 ### 🤖 AI Support Assistant
 
-**QLoRA · Hybrid RAG · LangGraph · ChromaDB · Groq**
+**QLoRA · Hybrid RAG · LangGraph · ChromaDB · Multi-Agent**
 
-Production-style customer support AI combining fine-tuned
-LLM classification, hybrid retrieval, multi-agent routing
-and human-in-the-loop safety workflows.
+Fine-tuned **Qwen2.5-1.5B-Instruct** and built a hybrid retrieval
+and multi-agent customer support system.
 
 **92%+ Classification Accuracy · 100% Recall@3 · MRR 1.0**
 
 <a href="https://github.com/Laxmikant-SB/AI-Support-Assistant">
-View Repository →
+→ View Repository
 </a>
 
 ---
@@ -72,30 +93,14 @@ View Repository →
 
 **Scikit-learn · DVC · MLflow · FastAPI · Docker · AWS**
 
-End-to-end machine learning system for predicting food delivery
-time with experiment tracking, data versioning and cloud deployment.
+End-to-end ML pipeline for delivery time prediction with
+data versioning, experiment tracking and cloud deployment.
 
 **R² = 0.84**
 
 <a href="https://github.com/Laxmikant-SB/zomato-swiggy-delivery-time-prediction">
-View Repository →
+→ View Repository
 </a>
-
----
-
-## `// TOOLKIT`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,pytorch,tensorflow,fastapi,docker,aws,git,github&perline=10"/>
-
-<br><br>
-
-**LangChain · LangGraph · Hugging Face · QLoRA · PEFT**
-
-**FAISS · ChromaDB · Scikit-learn · MLflow · DVC · Streamlit**
-
-</div>
 
 ---
 
