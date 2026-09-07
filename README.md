@@ -1,140 +1,99 @@
-````markdown
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Laxmikant-SB/Laxmikant-SB/main/assets/pixel-ai.jpeg" width="850" alt="Pixel Art AI Workspace"/>
+<img src="https://raw.githubusercontent.com/Laxmikant-SB/Laxmikant-SB/main/assets/pixel-ai.jpeg" width="850"/>
 
 <br><br>
 
 # Laxmikant Babaleshwar
 
-### `AI / ML ENGINEER`
-
-<p>
-Building intelligent systems with
-<b>LLMs · RAG · AI Agents · Fine-Tuning · MLOps</b>
-</p>
+### Building AI systems that think, retrieve & act.
 
 <br>
 
 <a href="https://github.com/Laxmikant-SB">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/laxmikant-babaleshwar-638639323">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:laxmikantbabaleshwar07@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<div align="center">
+## `// WHO AM I`
 
-### `SYSTEM ONLINE`
+I'm a **Machine Learning & Generative AI Engineer** focused on
+building practical AI systems with **LLMs, RAG, AI Agents and MLOps**.
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   > initializing AI workspace...          [ OK ]     │
-│   > loading machine learning models...    [ OK ]     │
-│   > loading retrieval systems...          [ OK ]     │
-│   > loading intelligent agents...         [ OK ]     │
-│   > loading deployment stack...           [ OK ]     │
-│                                                      │
-│   STATUS : READY TO BUILD                            │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-````
+I enjoy turning ideas into systems that **retrieve, reason, evaluate and deploy**.
 
-</div>
+---
 
-## `// WHOAMI`
-
-Machine Learning & Generative AI Engineer focused on building practical AI systems with **LLMs, RAG, AI Agents, LLM Fine-Tuning and MLOps**.
-
-I enjoy turning ideas into systems that can **retrieve, reason, evaluate and deploy**.
-
-## `// STACK`
+## `// WHAT I BUILD`
 
 <div align="center">
 
-**🧠 Machine Learning**
-
-`Python` `NumPy` `Pandas` `Scikit-learn` `TensorFlow` `Keras` `PyTorch` `NLP`
-
-**🤖 Generative AI**
-
-`LLMs` `RAG` `LangChain` `LangGraph` `Prompt Engineering` `Groq`
-
-**🔎 Retrieval**
-
-`FAISS` `ChromaDB` `BM25` `RRF` `Semantic Search` `Hybrid Search` `Re-ranking`
-
-**🔥 Fine-Tuning**
-
-`LoRA` `QLoRA` `PEFT` `4-bit Quantization` `Hugging Face Transformers` `Qwen` `Llama`
-
-**⚙️ MLOps & Deployment**
-
-`DVC` `MLflow` `Docker` `GitHub Actions` `FastAPI` `AWS EC2` `AWS ECR`
+| 🧠 AI | 🔎 Retrieval | 🤖 Agents | ⚙️ MLOps |
+|:---:|:---:|:---:|:---:|
+| LLMs | RAG | LangGraph | MLflow |
+| QLoRA | FAISS | Multi-Agent | DVC |
+| LoRA | ChromaDB | Tool Calling | Docker |
+| Prompt Engineering | BM25 / RRF | Human-in-the-Loop | AWS |
 
 </div>
+
+---
 
 ## `// BUILDS`
 
-<div align="center">
+### 🤖 AI Support Assistant
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**QLoRA · Hybrid RAG · LangGraph · ChromaDB · Groq**
 
-<h3>🤖 AI Support Assistant</h3>
+Production-style customer support AI combining fine-tuned
+LLM classification, hybrid retrieval, multi-agent routing
+and human-in-the-loop safety workflows.
 
-<b>QLoRA · Hybrid RAG · LangGraph · ChromaDB</b>
-
-<br><br>
-
-A multi-agent customer support system combining fine-tuned LLM classification, hybrid retrieval, intelligent routing and human-in-the-loop workflows.
-
-<br><br>
-
-<b>92%+ Accuracy</b><br> <b>100% Recall@3</b><br> <b>MRR 1.0</b>
-
-<br><br>
+**92%+ Classification Accuracy · 100% Recall@3 · MRR 1.0**
 
 <a href="https://github.com/Laxmikant-SB/AI-Support-Assistant">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+View Repository →
 </a>
 
-</td>
+---
 
-<td width="50%" valign="top">
+### 🚚 Delivery Time Prediction
 
-<h3>🚚 Delivery Time Prediction</h3>
+**Scikit-learn · DVC · MLflow · FastAPI · Docker · AWS**
 
-<b>ML · MLOps · FastAPI · Docker · AWS</b>
+End-to-end machine learning system for predicting food delivery
+time with experiment tracking, data versioning and cloud deployment.
 
-<br><br>
-
-An end-to-end machine learning system for food delivery time prediction with data versioning, experiment tracking, CI/CD and cloud deployment.
-
-<br><br>
-
-<b>R² = 0.84</b>
-
-<br><br><br>
+**R² = 0.84**
 
 <a href="https://github.com/Laxmikant-SB/zomato-swiggy-delivery-time-prediction">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+View Repository →
 </a>
 
-</td>
-</tr>
-</table>
+---
+
+## `// TOOLKIT`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,pytorch,tensorflow,fastapi,docker,aws,git,github&perline=10"/>
+
+<br><br>
+
+**LangChain · LangGraph · Hugging Face · QLoRA · PEFT**
+
+**FAISS · ChromaDB · Scikit-learn · MLflow · DVC · Streamlit**
 
 </div>
 
@@ -142,20 +101,6 @@ An end-to-end machine learning system for food delivery time prediction with dat
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────╮
-│                                          │
-│       BUILD  →  LEARN  →  SHIP          │
-│                                          │
-╰──────────────────────────────────────────╯
-```
-
-### `> turning ideas into intelligent systems_`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Laxmikant-SB&style=flat-square&color=blueviolet" alt="Profile Views"/>
+### `BUILD • LEARN • DEPLOY • REPEAT`
 
 </div>
-```
-
