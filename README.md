@@ -1,25 +1,25 @@
 <div align="center">
 
-# Laxmikant Babaleshwar
+# ⚡ Laxmikant Babaleshwar
 
-### `AI / ML / GenAI`
-
-<p>
-  <b>Building intelligent systems that retrieve, reason & act.</b>
-</p>
+### `AI • MACHINE LEARNING • GENERATIVE AI`
 
 <br>
 
+🧠 **LLMs** &nbsp; • &nbsp; 🔎 **RAG** &nbsp; • &nbsp; 🤖 **AI Agents** &nbsp; • &nbsp; ⚙️ **MLOps**
+
+<br><br>
+
 <a href="https://github.com/Laxmikant-SB">
-  GitHub
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
-&nbsp; • &nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/laxmikant-babaleshwar-638639323">
-  LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp; • &nbsp;
+&nbsp;
 <a href="mailto:laxmikantbabaleshwar07@gmail.com">
-  Email
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -39,68 +39,27 @@ I enjoy turning ideas into systems that **retrieve, reason, evaluate and deploy*
 
 <div align="center">
 
-### 🧠 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,java,js,pytorch,tensorflow,fastapi,docker,aws,git,github&perline=10"/>
 
-`Python` · `PyTorch` · `TensorFlow` · `Keras` · `Scikit-learn`  
-`NumPy` · `Pandas` · `NLP` · `Deep Learning` · `Statistics`
+<br><br>
 
-### 🤖 Generative AI
+### 🧠 Generative AI
 
-`LLMs` · `RAG` · `LangChain` · `LangGraph`  
-`Prompt Engineering` · `Semantic Search` · `Vector Search`
+**LangChain · LangGraph · Hugging Face · QLoRA · LoRA · PEFT**
 
-### 🔎 Retrieval
+### 🔎 Retrieval & Search
 
-`FAISS` · `ChromaDB` · `BM25` · `Hybrid Search`  
-`RRF` · `Re-ranking` · `Cross-Encoder`
+**RAG · FAISS · ChromaDB · Semantic Search · BM25 · RRF · Re-ranking**
 
-### 🔥 LLM Fine-Tuning
+### 📊 Machine Learning
 
-`LoRA` · `QLoRA` · `PEFT` · `4-bit Quantization`  
-`Hugging Face Transformers` · `Qwen` · `Llama` · `Groq`
+**Scikit-learn · NumPy · Pandas · TensorFlow · Keras · PyTorch**
 
-### ⚙️ MLOps & Cloud
+### ⚙️ MLOps & Deployment
 
-`DVC` · `MLflow` · `Docker` · `GitHub Actions`  
-`FastAPI` · `AWS EC2` · `AWS ECR` · `DagsHub`
-
-### 🛠️ Tools
-
-`Git` · `GitHub` · `Streamlit` · `Flask` · `Pydantic` · `Postman`
+**MLflow · DVC · Docker · GitHub Actions · FastAPI · AWS · Streamlit**
 
 </div>
-
----
-
-## `// WHAT I BUILD`
-
-### 🤖 AI Support Assistant
-
-**QLoRA · Hybrid RAG · LangGraph · ChromaDB · Multi-Agent**
-
-Fine-tuned **Qwen2.5-1.5B-Instruct** and built a hybrid retrieval
-and multi-agent customer support system.
-
-**92%+ Classification Accuracy · 100% Recall@3 · MRR 1.0**
-
-<a href="https://github.com/Laxmikant-SB/AI-Support-Assistant">
-→ View Repository
-</a>
-
----
-
-### 🚚 Delivery Time Prediction
-
-**Scikit-learn · DVC · MLflow · FastAPI · Docker · AWS**
-
-End-to-end ML pipeline for delivery time prediction with
-data versioning, experiment tracking and cloud deployment.
-
-**R² = 0.84**
-
-<a href="https://github.com/Laxmikant-SB/zomato-swiggy-delivery-time-prediction">
-→ View Repository
-</a>
 
 ---
 
